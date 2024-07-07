@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "880863082582",
+    "project_id": "kmgdev-4c55b",
+    "storage_bucket": "kmgdev-4c55b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880863082582:android:7d457bcf37f162e362a3f7",
+        "android_client_info": {
+          "package_name": "com.example.focuslearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdQOsIA8U3o2deSzy-NA9GC_uoNJVHHOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880863082582:android:08c1fbd8f6227bee62a3f7",
+        "android_client_info": {
+          "package_name": "com.example.textdection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdQOsIA8U3o2deSzy-NA9GC_uoNJVHHOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
